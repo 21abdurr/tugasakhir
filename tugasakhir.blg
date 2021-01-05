@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tugasakhir.aux
+A level-1 auxiliary file: kontrol/cover.aux
+A level-1 auxiliary file: kontrol/lembarPersetujuan.aux
+A level-1 auxiliary file: kontrol/lembarPengesahan.aux
+A level-1 auxiliary file: kontrol/lembarHKI.aux
+A level-1 auxiliary file: kontrol/lembarPernyataan.aux
+A level-1 auxiliary file: halamandepan/lembarPersembahan.aux
+A level-1 auxiliary file: halamandepan/kataPengantar.aux
+A level-1 auxiliary file: halamandepan/abstrak.aux
+A level-1 auxiliary file: halamandepan/abstrakInggris.aux
+A level-1 auxiliary file: halamandepan/daftarSingkatan.aux
+A level-1 auxiliary file: konten/bab1.aux
+A level-1 auxiliary file: konten/bab2.aux
+A level-1 auxiliary file: konten/bab3.aux
+A level-1 auxiliary file: konten/bab4.aux
+A level-1 auxiliary file: konten/bab5.aux
+A level-1 auxiliary file: konten/bab6.aux
+The style file: apacite.bst
+A level-1 auxiliary file: halamanbelakang/lampiranA.aux
+A level-1 auxiliary file: halamanbelakang/lampiranB.aux
+A level-1 auxiliary file: halamanbelakang/lampiranC.aux
+A level-1 auxiliary file: halamanbelakang/lampiranD.aux
+A level-1 auxiliary file: halamanbelakang/daftarRiwayatHidup.aux
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: konfigurasi/daftarpustaka.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--`others' not consistent with 6th ed. of the APA Manual
+You've used 2 entries,
+            6951 wiz_defined-function locations,
+            1301 strings with 11597 characters,
+and the built_in function-call counts, 4295 in all, are:
+= -- 513
+> -- 28
+< -- 249
++ -- 243
+- -- 6
+* -- 306
+:= -- 943
+add.period$ -- 7
+call.type$ -- 2
+change.case$ -- 34
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 82
+empty$ -- 145
+format.name$ -- 48
+if$ -- 749
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 0
+newline$ -- 51
+num.names$ -- 16
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 250
+stack$ -- 0
+substring$ -- 256
+swap$ -- 59
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 160
+warning$ -- 1
+while$ -- 14
+width$ -- 0
+write$ -- 61
+(There was 1 warning)

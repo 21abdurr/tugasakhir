@@ -1,0 +1,57 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Suherman%
+\ \protect \BOthers {.}}{%
+Suherman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+suherman2017sistem}
+\APACinsertmetastar {%
+suherman2017sistem}%
+\begin{APACrefauthors}%
+Suherman, Y.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sistem Informasi Kearsipan Tata Kelola Surat Pada Kantor
+  Inspeksi BRI Kota Padang} {Sistem informasi kearsipan tata kelola surat pada
+  kantor inspeksi bri kota padang}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jurnal RESTI (Rekayasa Sistem dan Teknologi
+  Informasi)}{1}{1}{26--33}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Triyono%
+\ \BBA {} Samopa%
+}{%
+Triyono%
+\ \BBA {} Samopa%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+triyono2013pembuatan}
+\APACinsertmetastar {%
+triyono2013pembuatan}%
+\begin{APACrefauthors}%
+Triyono, T.%
+\BCBT {}\ \BBA {} Samopa, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pembuatan Sistem Informasi Penatausahaan Surat dan Arsip
+  Berbasis Web Studi Kasus Kantor Pelayanan Perbendaharaan Negara Bengkulu}
+  {Pembuatan sistem informasi penatausahaan surat dan arsip berbasis web studi
+  kasus kantor pelayanan perbendaharaan negara bengkulu}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jurnal Teknik ITS}{2}{2}{A346--A349}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,71 @@
+\BOOKMARK [0][-]{section*.1}{LEMBAR PERSETUJUAN}{}% 1
+\BOOKMARK [0][-]{section*.3}{LEMBAR PENGESAHAN}{}% 2
+\BOOKMARK [0][-]{section*.5}{LEMBAR HAK ATAS KEKAYAAN INTELEKTUAL}{}% 3
+\BOOKMARK [0][-]{section*.7}{LEMBAR PERNYATAAN}{}% 4
+\BOOKMARK [0][-]{section*.9}{LEMBAR PERSEMBAHAN}{}% 5
+\BOOKMARK [0][-]{section*.12}{Kata Pengantar}{}% 6
+\BOOKMARK [0][-]{section*.14}{ABSTRAK}{}% 7
+\BOOKMARK [0][-]{section*.16}{ABSTRACT}{}% 8
+\BOOKMARK [0][-]{chapter*.19}{DAFTAR ISI}{}% 9
+\BOOKMARK [0][-]{chapter*.21}{DAFTAR GAMBAR}{}% 10
+\BOOKMARK [0][-]{chapter*.23}{DAFTAR TABEL}{}% 11
+\BOOKMARK [0][-]{section*.24}{DAFTAR SINGKATAN}{}% 12
+\BOOKMARK [0][-]{chapter.1}{1 Pendahuluan}{}% 13
+\BOOKMARK [1][-]{section.1.1}{1.1 Latar Belakang}{chapter.1}% 14
+\BOOKMARK [1][-]{section.1.2}{1.2 Perumusan Masalah}{chapter.1}% 15
+\BOOKMARK [1][-]{section.1.3}{1.3 Batasan Masalah}{chapter.1}% 16
+\BOOKMARK [1][-]{section.1.4}{1.4 Tujuan}{chapter.1}% 17
+\BOOKMARK [1][-]{section.1.5}{1.5 Manfaat}{chapter.1}% 18
+\BOOKMARK [1][-]{section.1.6}{1.6 Sistematika Penulisan}{chapter.1}% 19
+\BOOKMARK [0][-]{chapter.2}{2 Landasan Teori}{}% 20
+\BOOKMARK [1][-]{section.2.1}{2.1 Sistem Informasi}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.2}{2.2 Pengertian Arsip}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.3}{2.3 Model Pengembangan Sistem}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.4}{2.4 Perancangan Sistem}{chapter.2}% 24
+\BOOKMARK [1][-]{section.2.5}{2.5 Tahap Perancangan Sistem}{chapter.2}% 25
+\BOOKMARK [2][-]{subsection.2.5.1}{2.5.1 \040Analisis}{section.2.5}% 26
+\BOOKMARK [2][-]{subsection.2.5.2}{2.5.2 \040Perancangan Interface}{section.2.5}% 27
+\BOOKMARK [2][-]{subsection.2.5.3}{2.5.3 \040Implementasi}{section.2.5}% 28
+\BOOKMARK [2][-]{subsection.2.5.4}{2.5.4 \040Pengujian}{section.2.5}% 29
+\BOOKMARK [2][-]{subsection.2.5.5}{2.5.5 \040Pemeliharaan}{section.2.5}% 30
+\BOOKMARK [1][-]{section.2.6}{2.6 Website}{chapter.2}% 31
+\BOOKMARK [2][-]{subsection.2.6.1}{2.6.1 HTML}{section.2.6}% 32
+\BOOKMARK [2][-]{subsection.2.6.2}{2.6.2 Wampp}{section.2.6}% 33
+\BOOKMARK [2][-]{subsection.2.6.3}{2.6.3 PHP}{section.2.6}% 34
+\BOOKMARK [2][-]{subsection.2.6.4}{2.6.4 MySQL}{section.2.6}% 35
+\BOOKMARK [1][-]{section.2.7}{2.7 Dinas Kesehatan Kabupaten Pelalawan}{chapter.2}% 36
+\BOOKMARK [2][-]{subsection.2.7.1}{2.7.1 Visi dan Misi Instansi}{section.2.7}% 37
+\BOOKMARK [2][-]{subsection.2.7.2}{2.7.2 Struktur Organisasi Instansi}{section.2.7}% 38
+\BOOKMARK [0][-]{chapter.3}{3 Metodologi Penelitian}{}% 39
+\BOOKMARK [1][-]{section.3.1}{3.1 Metode Pengembangan Sistem}{chapter.3}% 40
+\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 User Requitments}{section.3.1}% 41
+\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 System Requitments}{section.3.1}% 42
+\BOOKMARK [2][-]{subsection.3.1.3}{3.1.3 Global Design}{section.3.1}% 43
+\BOOKMARK [2][-]{subsection.3.1.4}{3.1.4 Design Detailed}{section.3.1}% 44
+\BOOKMARK [2][-]{subsection.3.1.5}{3.1.5 Implementation}{section.3.1}% 45
+\BOOKMARK [2][-]{subsection.3.1.6}{3.1.6 Testing}{section.3.1}% 46
+\BOOKMARK [2][-]{subsection.3.1.7}{3.1.7 Documentation}{section.3.1}% 47
+\BOOKMARK [0][-]{chapter.4}{4 Analisa dan Perancangan}{}% 48
+\BOOKMARK [1][-]{section.4.1}{4.1 Analisa Dan Perancangan Sistem }{chapter.4}% 49
+\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Analisa Sistem terdahulu}{section.4.1}% 50
+\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Analisa Sistem Usulan}{section.4.1}% 51
+\BOOKMARK [1][-]{section.4.2}{4.2 Perancangan Unifield Modelling Language \(UML\)}{chapter.4}% 52
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Skenario Use Case}{section.4.2}% 53
+\BOOKMARK [1][-]{section.4.3}{4.3 Class Diagram}{chapter.4}% 54
+\BOOKMARK [1][-]{section.4.4}{4.4 Perancangan Database}{chapter.4}% 55
+\BOOKMARK [1][-]{section.4.5}{4.5 Perancangan Antarmuka}{chapter.4}% 56
+\BOOKMARK [0][-]{chapter.5}{5 Implementasi dan Pengujian}{}% 57
+\BOOKMARK [1][-]{section.5.1}{5.1 Hasil Implementasi}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.1.1}{5.1.1 Lingkungan Implementasi}{section.5.1}% 59
+\BOOKMARK [2][-]{subsection.5.1.2}{5.1.2 Hasil Implementasi}{section.5.1}% 60
+\BOOKMARK [1][-]{section.5.2}{5.2 Pengujian Sistem}{chapter.5}% 61
+\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 Blackbox Testing}{section.5.2}% 62
+\BOOKMARK [2][-]{subsection.5.2.2}{5.2.2 User Acceptence Test \(UAT\)}{section.5.2}% 63
+\BOOKMARK [0][-]{chapter.6}{6 Penutup}{}% 64
+\BOOKMARK [1][-]{section.6.1}{6.1 Kesimpulan}{chapter.6}% 65
+\BOOKMARK [1][-]{section.6.2}{6.2 Saran}{chapter.6}% 66
+\BOOKMARK [0][-]{chapter*.141}{DAFTAR PUSTAKA}{}% 67
+\BOOKMARK [0][-]{appendix.1.A}{LAMPIRAN A HASIL WAWANCARA}{}% 68
+\BOOKMARK [0][-]{appendix.1.B}{LAMPIRAN B HASIL OBSERVASI}{}% 69
+\BOOKMARK [0][-]{appendix.1.C}{LAMPIRAN C }{}% 70
+\BOOKMARK [0][-]{appendix.1.D}{LAMPIRAN D HASIL UJI UAT}{}% 71
